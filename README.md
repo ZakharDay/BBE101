@@ -1,2 +1,2 @@
 # Основы веб-вёрстки
-## Захар День для BangBang Education
+Захар День для Bang Bang Education

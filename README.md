@@ -13,3 +13,5 @@
 [Макеты в Figma](https://www.figma.com/file/GpgRXBCaCXU0FZWdUJtFDU/Wikimedium?node-id=0%3A1)
 
 [Выгруженный файл для подложки фоном](http://hack.exchange/uploads/raw_image/image/322/7cc22d95-5575-482f-aa11-58018d71d399.jpg)
+
+[Подборка CSS инструментов](https://cssauthor.com/css-generators/)

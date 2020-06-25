@@ -15,3 +15,5 @@
 [Выгруженный файл для подложки фоном](http://hack.exchange/uploads/raw_image/image/322/7cc22d95-5575-482f-aa11-58018d71d399.jpg)
 
 [Подборка CSS инструментов](https://cssauthor.com/css-generators/)
+
+[Файл sidebar.js](https://gist.github.com/ZakharDay/69c21833df926673ec8cbee1fc98e878)

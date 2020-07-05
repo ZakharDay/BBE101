@@ -17,3 +17,5 @@
 [Подборка CSS инструментов](https://cssauthor.com/css-generators/)
 
 [Файл sidebar.js](https://gist.github.com/ZakharDay/69c21833df926673ec8cbee1fc98e878)
+
+[Apple Device Screen Resolutions & Media Queries](https://github.com/ZakharDay/MediaQueries)

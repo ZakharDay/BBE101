@@ -19,3 +19,5 @@
 [Файл sidebar.js](https://gist.github.com/ZakharDay/69c21833df926673ec8cbee1fc98e878)
 
 [Apple Device Screen Resolutions & Media Queries](https://github.com/ZakharDay/MediaQueries)
+
+[Попробуйте выгрузить сайт через FTP на 1gb](http://www.1gb.ru/67a8ec76ty)

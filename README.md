@@ -21,3 +21,5 @@
 [Apple Device Screen Resolutions & Media Queries](https://github.com/ZakharDay/MediaQueries)
 
 [Попробуйте выгрузить сайт через FTP на 1gb](http://www.1gb.ru/67a8ec76ty)
+
+[Доменный регистратор Namecheap](https://www.namecheap.com)
